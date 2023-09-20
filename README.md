@@ -5,13 +5,13 @@ Screenshots below.
 
 **Quick inspiration backstory:**
 
-My friends and I found an abandonded box of the actual board game in our college dorm. We learnt the game from the instrucions in the box and played a quite a bit.
+My friends and I found an abandonded box of the actual board game in our college dorm. We learnt the game from the instrucions in the box and played quite a bit.
 
-The game seemed work the similar mental muscles as chess.
+The game seemed to work similar mental muscles as chess.
 
-I saw an (and still think there is) an opporuntiy to build a online multiplayer community around this game.
+I saw an (and still think there is) an opporuntiy to <ins>build a online multiplayer community around this game</ins>.
 
-I have never heard of the game before or after that (and disclaimer: I haven't even read the wiki link I just added for context).
+I have never heard of the game before or after that (disclaimer: I haven't even read the wiki link I just added for context).
 
 
 **Screenshots:**
